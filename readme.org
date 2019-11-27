@@ -1,5 +1,7 @@
 
-* Folder fig2 contains code for generating figure 2
+Theoretical Issues in Deep Networks
+
+
 
 
 
