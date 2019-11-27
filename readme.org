@@ -1,0 +1,6 @@
+
+* Folder fig2 contains code for generating figure 2
+
+
+
+
